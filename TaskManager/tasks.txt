@@ -1,0 +1,56 @@
+
+T202 
+Assigned to:		amanda 
+Task:			coding 
+Date assigned:		2020-08-02 
+Due date:		2020-12-12 
+Task completed:		No 
+Task description:	building database 
+
+T102 
+Assigned to:		amanda 
+Task:			programming 
+Date assigned:		2020-08-02 
+Due date:		2020-11-31 
+Task completed:		No 
+Task description:	testing database 
+
+T211 
+Assigned to:		enhle 
+Task:			testing 
+Date assigned:		2020-08-02 
+Due date:		2020-12-25 
+Task completed:		No 
+Task description:	quality testing 
+
+T301 
+Assigned to:		mzo 
+Task:			designing 
+Date assigned:		2020-08-02 
+Due date:		2020-12-25 
+Task completed:		No 
+Task description:	building GUI 
+
+T304 
+Assigned to:		enhle 
+Task:			testing 
+Date assigned:		2020-08-02 
+Due date:		2020-12-30 
+Task completed:		No 
+Task description:	user acceptance test 
+
+T444 
+Assigned to:		enhle 
+Task:			test 
+Date assigned:		2020-08-02 
+Due date:		2020-12-30 
+Task completed:		No 
+Task description:	database testing 
+
+T101 
+Assigned to:		admin 
+Task:			Scrum master 
+Date assigned:		2020-08-06 
+Due date:		2020-12-31 
+Task completed:		No 
+Task description:	Lead the project 

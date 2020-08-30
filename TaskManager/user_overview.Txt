@@ -1,0 +1,7 @@
+The total number of users registered: 4
+The total number of tasks: 6
+
+admin          0  tasks		0  % tasks		67 % incomplete tasks		33 % completed		0  % tasks overdue
+mzo            1  tasks		17 % tasks		67 % incomplete tasks		33 % completed		0  % tasks overdue
+enhle          3  tasks		50 % tasks		67 % incomplete tasks		33 % completed		0  % tasks overdue
+amanda         2  tasks		33 % tasks		67 % incomplete tasks		33 % completed		0  % tasks overdue

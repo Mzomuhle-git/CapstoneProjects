@@ -1,0 +1,4 @@
+Total number of tasks: 6
+Total completed tasks: 2
+Total incomplete tasks: 4
+Percentage incomplete tasks 67%
